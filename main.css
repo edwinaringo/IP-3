@@ -22,9 +22,6 @@ body{
   color: white;
 }
 
-.mouse{
-
-}
 .hero-image2{
   position: relative;
   height: 500px;
@@ -83,6 +80,7 @@ body{
 
 .form-control{
   background-color: transparent;
+  color: white;
 }
 
 .hero-text3{
