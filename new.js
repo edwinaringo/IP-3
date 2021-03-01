@@ -15,11 +15,20 @@ $(document). ready(function(){
 
 
 //the portfolio section
-$('.col-md-3').hover(function (){
-  $(this).children(".cards").fadeToggle(1000,"linear");
-});
+//$('.col-md-3').mouseover(function() {
+  //$('.').show();
+//}).mouseout(function() {
+ // $('.work1-overlay').hide();
+//});
 
 //portifolio section 
+$('.cards').hide();
+
+$('.col-md-3').mouseover(function() {
+  $('.cards').show();
+}).mouseout(function() {
+  $('.cards').hide();
+});
 
 
 $("button").click(function (omonge) {

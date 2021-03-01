@@ -56,11 +56,6 @@ body{
   margin-top: 90px;
 }
 
-.col-md-3{
-  margin: 10px;
-  position: relative;
-  overflow: hidden;
-}
 .cards {
   position: absolute;
   width: 100%;
@@ -69,6 +64,8 @@ body{
   cursor: pointer;
   display: none;
   transition: all 0.5s ease;
+  left: 0;
+  top: 0;
 }
 
 .para {
