@@ -39,6 +39,10 @@ body{
   font-size: 30px;
 }
 
+.show{
+  display: none;
+}
+
 .hero-image3{
   position: relative;
   height: 500px;
@@ -72,6 +76,7 @@ body{
   font-size: 1.2em;
   overflow: hidden;
   line-height: 90%;
+  border: 4px;
 }
 
 .btn{
