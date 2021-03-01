@@ -13,6 +13,8 @@ $(document). ready(function(){
 
 
 //the portfolio section
-$('row').hover(function (){
-  $('.para').fadeToogle(1000, "linear");
-});
+//$('row').hover(function (){
+  //$('.para').fadeToogle(1000, "linear");
+//});
+
+//portifolio section 
