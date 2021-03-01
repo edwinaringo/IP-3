@@ -10,3 +10,9 @@ $(document). ready(function(){
       $('p3').toggle();
     });
 });
+
+
+//the portfolio section
+$('row').hover(function (){
+  $('.para').fadeToogle(1000, "linear");
+});

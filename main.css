@@ -47,3 +47,24 @@ body{
   margin-top: 90px;
 }
 
+.cards {
+  position: absolute;
+  width: 100%;
+  min-height: 100%;
+  background: rbga(0,0,0,0.582);
+  cursor: pointer;
+  display: none;
+  transition: all 0.5s ease;
+}
+
+.para {
+  padding: 5% 0;
+  color:aliceblue;
+  background-color: black;
+  padding: 50px 10px;
+  font-weight: 100%;
+  padding-top: 30px;
+  font-size: 1.2em;
+  overflow: hidden;
+  line-height: 90%;
+}
