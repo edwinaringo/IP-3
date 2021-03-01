@@ -1,3 +1,4 @@
+//  the what we do section
 $(document). ready(function(){
     $('.icon1').click(function(){
       $('p1').toggle();
