@@ -69,3 +69,10 @@ body{
   line-height: 90%;
 }
 
+.btn{
+  background-color: transparent;
+}
+
+.form-control{
+  background-color: transparent;
+}
