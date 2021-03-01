@@ -9,7 +9,7 @@ body{
   position: relative;
   height: 500px;
   overflow: hidden;
-  background: url(background1.jpg) no-repeat center;
+  background: url(images/background1.jpg) no-repeat center;
   background-size: cover;
 }
 
@@ -21,7 +21,7 @@ body{
   position: relative;
   height: 500px;
   overflow: hidden;
-  background: url(background3.jpg) no-repeat center;
+  background: url(images/background3.jpg) no-repeat center;
   background-size: cover;
 }
 
@@ -38,7 +38,7 @@ body{
   position: relative;
   height: 500px;
   overflow: hidden;
-  background: url(background2.jpg) no-repeat center;
+  background: url(images/background2.jpg) no-repeat center;
   background-size: cover;
 }
 
