@@ -15,9 +15,9 @@ $(document). ready(function(){
 
 
 //the portfolio section
-//$('row').hover(function (){
-  //$('.para').fadeToogle(1000, "linear");
-//});
+$('.col-md-3').hover(function (){
+  $(this).children(".cards").fadeToggle(1000,"linear");
+});
 
 //portifolio section 
 
