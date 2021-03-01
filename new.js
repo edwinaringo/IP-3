@@ -20,3 +20,8 @@ $(document). ready(function(){
 //portifolio section 
 
 
+$("button").click(function (omonge) {
+  var client = document.getElementById('name').value;
+  alert(' Dear ' + ' esteemed ' + client + ' you have succesfully submitted your comment ' + ' Thank you for doing business with us');
+  omonge.preventDefault();
+});

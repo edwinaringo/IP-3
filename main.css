@@ -31,7 +31,7 @@ body{
 }
 
 .services{
-  font-size: 50px;
+  font-size: 30px;
 }
 
 .hero-image3{
@@ -75,4 +75,8 @@ body{
 
 .form-control{
   background-color: transparent;
+}
+
+.hero-text3{
+  color: white;
 }
