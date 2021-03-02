@@ -26,56 +26,54 @@ $(document). ready(function(){
 
 //portifolio section 
 $('.card1-overlay').hide();
-$('.card2-overlay').hide();
-$('.card3-overlay').hide();
-$('.card4-overlay').hide();
-$('.card5-overlay').hide();
-$('.card6-overlay').hide();
-$('.card7-overlay').hide();
-$('.card8-overlay').hide();
+$(".card2-overlay").hide();
+$(".card3-overlay").hide();
+$(".card4-overlay").hide();
+$(".card5-overlay").hide();
+$(".card6-overlay").hide();
+$(".card7-overlay").hide();
+$(".card8-overlay").hide();
 
-
-$('.project1').hover(function(){
+$('.project1').mouseover(function() {
   $('.card1-overlay').show();
-}).mouseout(function(){
+}).mouseout(function() {
   $('.card1-overlay').hide();
 });
-$('.project2').mouseover(function(){
-  $('.card2-overlay').show();
-}).mouseout(function(){
-  $('.card2-overlay').hide();
+$(".project2").mouseover(function() {
+  $(".card2-overlay").show();
+}).mouseout(function() {
+  $(".card2-overlay").hide();
 });
-$('.project3').mouseover(function(){
-  $('.card3-overlay').show();
-}).mouseout(function(){
-  $('.card3-overlay').hide();
+$(".project3").mouseover(function() {
+  $(".card3-overlay").show();
+}).mouseout(function() {
+  $(".card3-overlay").hide();
 });
-$('.project4').mouseover(function(){
-  $('.card4-overlay').show();
-}).mouseout(function(){
-  $('.card4-overlay').hide();
+$(".project4").mouseover(function() {
+  $(".card4-overlay").show();
+}).mouseout(function() {
+  $(".card4-overlay").hide();
 });
-$('.project5').mouseover(function(){
-  $('.card5-overlay').show();
-}).mouseout(function(){
-  $('.card5-overlay').hide();
+$(".project5").mouseover(function() {
+  $(".card5-overlay").show();
+}).mouseout(function() {
+  $(".card5-overlay").hide();
 });
-$('.project6').mouseover(function(){
-  $('.card6-overlay').show();
-}).mouseout(function(){
-  $('.card6-overlay').hide();
+$(".project6").mouseover(function() {
+  $(".card6-overlay").show();
+}).mouseout(function() {
+  $(".card6-overlay").hide();
 });
-$('.project7').mouseover(function(){
-  $('.card7-overlay').show();
-}).mouseout(function(){
-  $('.card7-overlay').hide();
+$(".project7").mouseover(function() {
+  $(".card7-overlay").show();
+}).mouseout(function() {
+  $(".card7-overlay").hide();
 });
-$('.project8').mouseover(function(){
-  $('.card8-overlay').show();
-}).mouseout(function(){
-  $('.card8-overlay').hide();
+$(".project8").mouseover(function() {
+  $(".card8-overlay").show();
+}).mouseout(function() {
+  $(".card8-overlay").hide();
 });
-
 
 
 
