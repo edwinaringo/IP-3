@@ -61,6 +61,15 @@ body{
   margin-top: 90px;
 }
 
+.para{
+  border: 2px solid white;
+  margin-top: 10%;
+  margin-left: 10%;
+  width: 100%;
+  height: 100%;
+  
+}
+
 .class1-overlay,
 .class2-overlay,
 .class3-overlay,

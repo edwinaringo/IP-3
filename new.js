@@ -34,10 +34,11 @@ $('.card6-overlay').hide();
 $('.card7-overlay').hide();
 $('.card8-overlay').hide();
 
-$('.col-md-3').mouseover(function() {
-  $('.cards').show();
-}).mouseout(function() {
-  $('.cards').hide();
+
+$('.project1').mouseover(function(){
+  $('.card1-overlay').show();
+}).mouseout(function(){
+  $('.card1-overlay').hide();
 });
 
 
