@@ -1,15 +1,18 @@
 //  the what we do section
 $(document). ready(function(){
-    $('.icon1').click(function(){
-        $('p1').toogle();
+    $('#design').click(function(){
+        $('.words').toogle("slow");
+        $('.icon1').toogle('slow');
     });
 
-    $('.icon2').click(function(){
-      $('p2').toggle();
+    $('#development').click(function(){
+      $('p2').toggle('slow');
+      $('.icon2').toogle('slow');
     });
 
-    $('.icon3').click(function(){
-      $('p3').toggle();
+    $('#product').click(function(){
+      $('p3').toggle('slow');
+      $('.icon3').toogle('slow');
     });
 });
 

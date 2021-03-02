@@ -42,6 +42,13 @@ body{
 .show{
   display: none;
 }
+.words{
+  display: none;
+}
+
+#design,#development,#product{
+  cursor:pointer;
+}
 
 .hero-image3{
   position: relative;
