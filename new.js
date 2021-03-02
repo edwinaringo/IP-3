@@ -1,8 +1,8 @@
 //  the what we do section
 $(document). ready(function(){
     $('#design').click(function(){
-        $('.words').toggle("slow");
-        $('.words').toogle('slow');
+        $('p1').toggle('slow');
+        $('.icon1').toogle('slow');
     });
 
     $('#development').click(function(){
