@@ -61,17 +61,35 @@ body{
   margin-top: 90px;
 }
 
-.cards {
-  position: absolute;
-  width: 100%;
-  min-height: 100%;
-  background: black;
+.class1-overlay,
+.class2-overlay,
+.class3-overlay,
+.class4-overlay,
+.class5-overlay,
+.class6-overlay,
+.class7-overlay,
+.class8-overlay {
+  background-color: black;
+  opacity: 0.7;
   cursor: pointer;
-  display: none;
-  transition: all 0.5s ease;
-  left: 0;
   top: 0;
+  left: 0;
+  position: absolute;
+  height: 100%;
+  width: 100%;
 }
+
+.project1,
+.project2,
+.project3,
+.project4,
+.project5,
+.project6,
+.project7,
+.project8{
+  position: relative;
+}
+
 
 .para {
   padding: 5% 0;
