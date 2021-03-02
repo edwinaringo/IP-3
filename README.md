@@ -1,20 +1,20 @@
- DELANI STUDIO
+ #DELANI STUDIO
 
-DESCRIPTION
+##DESCRIPTION
 This is a replica of Delani Studios website. It is an application that shows their work and has a form at the end where users can leave comments. And email confirmations.
 
 The live site is on the description but let me place it here too. 
 Live site is here: https://gifted-davinci-509b3b.netlify.app
 
-TECHNOLOGIES USED:
+##TECHNOLOGIES USED:
 HTML
 JQuery
 CSS
 Javascript
 Bootstrap
 
-LICENSE
+##LICENSE
 I used MIT licence
 
-CONTACT
+##CONTACT
 tedaringo638@gmail.com
