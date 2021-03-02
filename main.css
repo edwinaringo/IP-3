@@ -61,6 +61,19 @@ body{
   margin-top: 90px;
 }
 
+.para{
+  width: 80%;
+  height: 80%;
+  border: 2px solid white;
+  margin-left: 10%;
+  margin-top: 10%;
+}
+
+.para p{
+  text-align: center;
+  font-size: 25px;
+  padding-top: 30%;
+}
 
 .class1-overlay,
 .class2-overlay,
@@ -89,14 +102,10 @@ body{
 .project8{
   position: relative;
   cursor: pointer;
+  overflow: hidden;
+  margin: 10px 0;
 }
 
-
-.para {
-  text-align: center;
-  font-size: 25px;
-  padding-top: 30%;
-}
 
 .btn{
   background-color: transparent;
