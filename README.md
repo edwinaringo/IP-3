@@ -6,6 +6,8 @@ This is a replica of Delani Studios website. It is an application that shows the
 The live site is on the description but let me place it here too. 
 Live site is here: https://gifted-davinci-509b3b.netlify.app
 
+##Screenshots
+
 ##TECHNOLOGIES USED:
 HTML
 JQuery
